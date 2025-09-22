@@ -1,0 +1,15 @@
+com\assh\supervisor\multitenant\MultiTenantConnectionProviderImpl.class
+com\assh\supervisor\configuration\JwtUtil.class
+com\assh\supervisor\service\JwtService.class
+com\assh\supervisor\configuration\JwtConfig.class
+com\assh\supervisor\configuration\CustomUserDetailsService.class
+com\assh\supervisor\model\Users.class
+com\assh\supervisor\dao\JwtDao.class
+com\assh\supervisor\model\AuthRequest.class
+com\assh\supervisor\model\SupervisorDetails.class
+com\assh\supervisor\multitenant\TenantContext.class
+com\assh\supervisor\controller\JwtController.class
+com\assh\supervisor\SupervisorsSignInApplication.class
+com\assh\supervisor\configuration\JwtFilter.class
+com\assh\supervisor\multitenant\HibernateConfig.class
+com\assh\supervisor\multitenant\CurrentTenantIdentifierResolverImpl.class
